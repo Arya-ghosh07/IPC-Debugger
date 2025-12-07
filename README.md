@@ -1,9 +1,8 @@
 # IPC Debugger
-
 A powerful tool for debugging and visualizing Inter-Process Communication (IPC) mechanisms. This application provides a graphical interface for monitoring and debugging pipes, message queues, shared memory, and detecting potential deadlocks in your applications.
 
 ## Features
-
+#Added more documentation for project clarity
 - **Pipe Debugging**: Monitor and debug pipe communications between processes
 - **Message Queue Debugging**: Track message queue operations and contents
 - **Shared Memory Debugging**: Visualize shared memory segments and their usage
