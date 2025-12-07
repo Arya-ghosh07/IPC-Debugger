@@ -1,7 +1,7 @@
 # Changelog
 
 ## [1.1.0] - 2024-03-24
-
+- Minor documentation updates and cleanup
 ### Added
 - Initial release
 - Pipe debugging functionality
