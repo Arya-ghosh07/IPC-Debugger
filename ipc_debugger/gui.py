@@ -1,7 +1,7 @@
 """
 GUI implementation for IPC Debugger using Tkinter.
 """
-
+#GUI layout improvement comment
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
 import threading
