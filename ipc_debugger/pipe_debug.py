@@ -2,6 +2,8 @@
 Pipe debugging functionality for IPC Debugger.
 """
 
+# added initialization log for pipe debugging
+
 import os
 import time
 import tempfile
